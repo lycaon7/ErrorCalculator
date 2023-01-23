@@ -1,7 +1,7 @@
 import math
 
-rawData = [0.285,0.24]
-toolError = 0.0025
+rawData = [] # Raw data inputs
+toolError = 0 # Error from measuring tool
 
 if __name__ == '__main__':
     if rawData:
